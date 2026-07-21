@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://github.com/vikas-032.png" alt="Vikas Kumar" width="150" height="150" style="border-radius: 50%; border: 3px solid #00ff41;">
+  <img src="https://github.com/vikas-032.png" alt="Vikas Kumar" width="200" height="200">
   
   # Hi there ✨, I'm Vikas Kumar
   
